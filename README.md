@@ -1,0 +1,6 @@
+For the Object-Oriented Programming with C++ assignment, I developed an inventory and purchase management system that implements core OOP concepts such as encapsulation, inheritance, polymorphism, and abstraction. The system features three main roles: Admin, Sales Manager, and Purchase Manager, each with distinct functionalities.
+
+Admin: The admin can create and manage users, add or modify data in the system, and has access to all functionalities of the program.
+Sales Manager: This role allows for the entry, modification, and deletion of items and suppliers, as well as creating purchase requisitions and viewing purchase orders.
+Purchase Manager: The purchase manager can manipulate purchase orders, view the item list and suppliers, and generate new purchase orders.
+Key functionalities include creating, viewing, and editing records for items, suppliers, and sales entries. The system uses text files for data storage and provides user-friendly menu options for navigating between roles. Advanced OOP concepts are implemented through the use of inheritance for data organization, encapsulation to protect data members, and polymorphism to provide different functionalities based on user roles.
